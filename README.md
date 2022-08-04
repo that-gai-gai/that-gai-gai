@@ -4,15 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hacker, Developer, and Maker
 ----------------------------
 
-*   🖥️  See my portfolio at [thagaigai.com](http://thatgaigai.com)
-*   ✉️  You can contact me at [hello@thatgaigai.com](mailto:hello@thatgaigai.com)
-*   🚀  I'm currently working on [the Timbuktu Pan-African Library](http://timbuktu.pl)
-*   🧠  I'm learning the Microsoft Azure Enviroment
-*   🤝  I'm open to collaborating on Cybersecurity or Africa Focused Software!
-*   ⚡  I'm secretly a wizard don't tell anyone.<a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img
+*   🖥️  See my portfolio at [thagaigai.com](http://thatgaigai.com)
+*   ✉️  You can contact me at [hello@thatgaigai.com](mailto:hello@thatgaigai.com)
+*   🚀  I'm currently working on [the Timbuktu Pan-African Library](http://timbuktu.pl)
+*   🧠  I'm learning the Microsoft Azure Enviroment
+*   🤝  I'm open to collaborating on Cybersecurity or Africa Focused Software!
+*   ⚡  I'm secretly a wizard don't tell anyone.
+<a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/that_gai_gai?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/that_gai_gai" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/that_gai_gai?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/twitch/status/that_gai_gai?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -34,31 +38,21 @@ Hacker, Developer, and Maker
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
- ### Socials                  
+                    
+
+ ### Socials
                   
- <p align="left">
-                          
-                      <a href="https://www.codepen.io/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.dev.to/@thatgaigai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/that_gai#1982" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://thatgaigai.hashnode.dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@that_gai_gai_16535icz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/19687180/gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/pqm_PYoNy_ZCuaCg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitch.tv/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/that-gai-gai"><img src="https://github-readme-stats.vercel.app/api?username=that-gai-gai&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="that-gai-gai's GitHub stats" /></a><a
-                      href="http://www.github.com/that-gai-gai"><img src="https://activity-graph.herokuapp.com/graph?username=that-gai-gai&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/that-gai-gai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=that-gai-gai&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/thatgaigai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <p align="left"> <a href="https://www.codepen.io/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/@thatgaigai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/that_gai#1982" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://thatgaigai.hashnode.dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@that_gai_gai_16535icz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19687180/gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/pqm_PYoNy_ZCuaCg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/that-gai-gai"><img src="https://github-readme-stats.vercel.app/api?username=that-gai-gai&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="that-gai-gai's GitHub stats" /></a>
+
+<a href="http://www.github.com/that-gai-gai"><img src="https://activity-graph.herokuapp.com/graph?username=that-gai-gai&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/that-gai-gai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=that-gai-gai&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/thatgaigai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
