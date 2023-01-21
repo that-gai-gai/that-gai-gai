@@ -10,10 +10,7 @@ Hacker, Developer, and Maker
 *   🧠  I'm learning the Microsoft Azure Enviroment
 *   🤝  I'm open to collaborating on Cybersecurity or Africa Focused Software!
 *   ⚡  I'm secretly a wizard don't tell anyone.
-<a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/that_gai_gai?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/that_gai_gai" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/that_gai_gai?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 
 ### Skills
 <p align="left">
