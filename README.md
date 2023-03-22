@@ -4,10 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hacker, Developer, and Maker
 ----------------------------
 
-*   🖥️  See my portfolio at [thagaigai.com](http://thatgaigai.com)
-*   ✉️  You can contact me at [hello@thatgaigai.com](mailto:hello@thatgaigai.com)
-*   🚀  I'm currently working on [the Timbuktu Pan-African Library](http://timbuktu.pl)
-*   🧠  I'm learning the Microsoft Azure Enviroment
+*   🚀  I'm currently working on [OpenSMM](https://github.com/vaughngx4/OpenSMM)
+*   🧠  I'm learning the Rust Programming Language
 *   🤝  I'm open to collaborating on Cybersecurity or Africa Focused Software!
 *   ⚡  I'm secretly a wizard don't tell anyone.
 
@@ -37,10 +35,7 @@ Hacker, Developer, and Maker
                     </p>
                     
 
- ### Socials
-                  
-  <p align="left"> <a href="https://www.codepen.io/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/@thatgaigai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/that_gai#1982" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/that-gai-gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://thatgaigai.hashnode.dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@that_gai_gai_16535icz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19687180/gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/pqm_PYoNy_ZCuaCg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/that_gai_gai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
+ 
 ### Badges
 
 <b>My GitHub Stats</b>
