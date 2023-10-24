@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gai
 ===========================================================================================================================
 
-Hacker, Developer, and Maker
+Hacker, Developer, and Student
 ----------------------------
 
 *   🚀  I'm currently working on [OpenSMM](https://github.com/vaughngx4/OpenSMM)
