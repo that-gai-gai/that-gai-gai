@@ -7,7 +7,7 @@ Hacker, Developer, and Maker
 *   🚀  I'm currently working on [OpenSMM](https://github.com/vaughngx4/OpenSMM)
 *   🧠  I'm learning the Rust Programming Language
 *   🤝  I'm open to collaborating on Cybersecurity or Africa Focused Software!
-*   ⚡  I'm secretly a wizard don't tell anyone.
+*   ⚡  I'm secretly a wizard.... don't tell anyone.
 
 
 ### Skills
